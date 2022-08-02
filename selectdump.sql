@@ -1,4 +1,4 @@
-/*aula de select - video 14*/ 
+/*aula de select - video 14 part2*/ 
 
 select * from cursos
 where nome like 'P%';  /*pareça com P*/
